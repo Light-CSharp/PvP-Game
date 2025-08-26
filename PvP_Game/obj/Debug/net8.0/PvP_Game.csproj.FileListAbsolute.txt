@@ -1,0 +1,14 @@
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\bin\Debug\net8.0\PvP_Game.exe
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\bin\Debug\net8.0\PvP_Game.deps.json
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\bin\Debug\net8.0\PvP_Game.runtimeconfig.json
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\bin\Debug\net8.0\PvP_Game.dll
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\bin\Debug\net8.0\PvP_Game.pdb
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\obj\Debug\net8.0\PvP_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\obj\Debug\net8.0\PvP_Game.AssemblyInfoInputs.cache
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\obj\Debug\net8.0\PvP_Game.AssemblyInfo.cs
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\obj\Debug\net8.0\PvP_Game.csproj.CoreCompileInputs.cache
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\obj\Debug\net8.0\PvP_Game.dll
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\obj\Debug\net8.0\refint\PvP_Game.dll
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\obj\Debug\net8.0\PvP_Game.pdb
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\obj\Debug\net8.0\PvP_Game.genruntimeconfig.cache
+C:\Users\Broky\source\repos\PvP_Game\PvP_Game\obj\Debug\net8.0\ref\PvP_Game.dll
